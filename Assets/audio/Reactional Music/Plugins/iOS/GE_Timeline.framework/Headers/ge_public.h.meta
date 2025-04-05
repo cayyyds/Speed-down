@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec8a9a5133ef9436481817bd82807ff6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250971
+  packageName: Reactional Music
+  packageVersion: 1.0
+  assetPath: Assets/Reactional Music/Plugins/iOS/GE_Timeline.framework/Headers/ge_public.h
+  uploadId: 689756
